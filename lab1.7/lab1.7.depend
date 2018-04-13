@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523566002 source:d:\haskell\lab1.7\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+
